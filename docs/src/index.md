@@ -19,4 +19,10 @@ In order to access the data, one must obtain valid credentials after requesting 
     
     Try it out first using the [API Explorer](https://api.careeronestop.org/api-explorer/).
 
+![Explorer](https://raw.githubusercontent.com/uva-bi-sdad/CareerOneStop.jl/main/docs/src/assets/img/api_explorer.png)
+
+![Query](https://raw.githubusercontent.com/uva-bi-sdad/CareerOneStop.jl/main/docs/src/assets/img/query.png)
+
+![Result](https://raw.githubusercontent.com/uva-bi-sdad/CareerOneStop.jl/main/docs/src/assets/img/result.png)
+
 This package provides functionality to easily interact and collect data from the API.
